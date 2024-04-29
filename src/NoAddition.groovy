@@ -4,7 +4,7 @@ class NoAddition {
         for (int i = 0; i < number2; i++){
             number1++
         }
-        return 0;
+        return number1
     }
 
 }
